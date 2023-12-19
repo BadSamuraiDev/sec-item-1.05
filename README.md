@@ -1,4 +1,4 @@
-# SEC Item 1.05 API Query
+# [![SEC Item 1.05 API Query](/sec-item-1.05.png)](https://github.com/BadSamuraiDev/sec-item-1.05)
 
 This script queries the SEC API for filings with a "Item 1.05" in the full text search and matches tickers from a watchlist. Ideally this script would be run on an interval (mind the API limits!) against a list populated manually or by a 3rd party risk job.
 
