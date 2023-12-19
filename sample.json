@@ -1,0 +1,19 @@
+{
+  "total": {
+    "value": 1,
+    "relation": "eq"
+  },
+  "filings": [
+    {
+      "accessionNo": "0000950123-23-011228",
+      "cik": "103379",
+      "companyNameLong": "V F CORP (VFC) (CIK 0000103379)",
+      "ticker": "VFC",
+      "description": "8-K",
+      "formType": "8-K",
+      "type": "8-K",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/103379/000095012323011228/d659095d8k.htm",
+      "filedAt": "2023-12-18"
+    }
+  ]
+}
