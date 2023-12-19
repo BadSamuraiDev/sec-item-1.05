@@ -1,0 +1,9 @@
+company:
+  - ticker: VFC
+    name: V.F. Corporation
+  - ticker: TMUS
+    name: T-Mobile US, Inc.
+  - ticker: MGM
+    name: MGM Resorts International
+  - ticker: TM
+    name: Toyota Motor Corporation
