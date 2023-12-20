@@ -6,10 +6,10 @@ By default the script will search between the current date and 30 days ago. This
 
 ### Usage:
 ```
-  python sec-item-105.py --token YOUR_API_TOKEN          # Run the script with an API token.
-  python sec-item-105.py --debug --token YOUR_API_TOKEN  # Run the script in debug mode with an API token.
-  python sec-item-105.py --debug                         # Run the script in debug mode, you'll be prompted for the API token.
-  python sec-item-105.py --token YOUR_API_TOKEN --watchlist MY_WL.yaml --output MY_OUTPUT.json
+  python sec-item-1.05.py --token YOUR_API_TOKEN          # Run the script with an API token.
+  python sec-item-1.05.py --debug --token YOUR_API_TOKEN  # Run the script in debug mode with an API token.
+  python sec-item-1.05.py --debug                         # Run the script in debug mode, you'll be prompted for the API token.
+  python sec-item-1.05.py --token YOUR_API_TOKEN --watchlist MY_WL.yaml --output MY_OUTPUT.json
 ```
 
 ### Options:
